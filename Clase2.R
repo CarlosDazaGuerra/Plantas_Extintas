@@ -1,0 +1,10 @@
+install.packages("rmarkdown")
+install.packages("knitr")
+install.packages("stargazer")
+install.packages("kableExtra")
+
+library(rmarkdown)
+library(knitr)
+library(stargazer)
+library(tidyverse)
+library(kableExtra)
